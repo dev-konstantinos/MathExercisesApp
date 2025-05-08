@@ -1,0 +1,14 @@
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\bin\Debug\net9.0\MainApp.exe
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\bin\Debug\net9.0\MainApp.deps.json
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\bin\Debug\net9.0\MainApp.runtimeconfig.json
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\bin\Debug\net9.0\MainApp.dll
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\bin\Debug\net9.0\MainApp.pdb
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\MainApp.AssemblyInfoInputs.cache
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\MainApp.AssemblyInfo.cs
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\MainApp.csproj.CoreCompileInputs.cache
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\MainApp.dll
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\refint\MainApp.dll
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\MainApp.pdb
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\MainApp.genruntimeconfig.cache
+C:\IT\LEARN\SHARP\myprojects\MatheTrainer\MainApp\obj\Debug\net9.0\ref\MainApp.dll
